@@ -1,0 +1,907 @@
+review,sentiment
+"The product is excellent and works perfectly.",positive
+"I am very disappointed with this purchase.",negative
+"The delivery was quick and the item matches the description.",positive
+"The product quality is okay, but the packaging was terrible.",neutral
+"extraordinary product.",positive
+"good product.",positive
+"bad product.",negative
+"Great value for money. Highly recommended!",positive
+"I would not buy this again.",negative
+"The customer service was very helpful and resolved my issue quickly.",positive
+"The product does not match the description. Very disappointed.",negative
+"It's an average product, not too great but not too bad either.",neutral
+"I love this product! It exceeded my expectations.",positive
+"The product stopped working after a week. Very poor quality.",negative
+"The product is decent for the price.",neutral
+"Amazing quality! I am very satisfied.",positive
+"This is the worst product I have ever bought.",negative
+"The product is okay, but I've seen better.",neutral
+"Excellent purchase. Will buy again.",positive
+"Not worth the money.",negative
+"The product is satisfactory.",neutral
+"Fantastic product! Very happy with it.",positive
+"The product broke within the first month. Extremely disappointed.",negative
+"It's fine, does the job.",neutral
+"I am thrilled with this product. Great buy!",positive
+"The product is a complete waste of money.",negative
+"It's an acceptable product for its price range.",neutral
+"Love it! Will definitely buy more.",positive
+"The product arrived damaged. Not happy with it at all.",negative
+"The product is okay, but the delivery took too long.",neutral
+"Very satisfied with this purchase.",positive
+"The product doesn't work as advertised. Very disappointed.",negative
+"The product is adequate for its purpose.",neutral
+"Great product! Exceeded my expectations.",positive
+"Terrible product. Do not recommend.",negative
+"The product is alright, but I've seen better.",neutral
+"Highly satisfied with this product.",positive
+"The product fell apart after a few uses. Not happy.",negative
+"The product is neither good nor bad.",neutral
+"Absolutely love this product. Worth every penny.",positive
+"The product is poorly made. Very unhappy with my purchase.",negative
+"The product is just okay.",neutral
+"Fantastic! Will recommend to others.",positive
+"The product did not meet my expectations. Very dissatisfied.",negative
+"The product is decent, but nothing special.",neutral
+"I am extremely pleased with this product.",positive
+"The product is not worth the hype. Very disappointing.",negative
+"The product is mediocre.",neutral
+"Great purchase. Very happy with it.",positive
+"The product is a letdown. Very poor quality.",negative
+"The product is okay for what it is.",neutral
+"Highly recommend this product. Very satisfied.",positive
+"The product is a complete disappointment. Do not buy.",negative
+"The product is neither here nor there.",neutral
+"Excellent product. Will buy again.",positive
+"The product did not last long. Very poor quality.",negative
+"The product is just average.",neutral
+"Very happy with this purchase. Exceeded expectations.",positive
+"The product is terrible. Do not waste your money.",negative
+"The product is okay, nothing more.",neutral
+"Absolutely love it! Great product.",positive
+"The product is of very poor quality. Not happy at all.",negative
+"The product is alright, but not the best.",neutral
+"Fantastic product! Very pleased with it.",positive
+"The product is not good at all. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Highly satisfied with this product. Great value.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great buy! Very happy with the quality.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
+"Highly recommend this product. Extremely satisfied.",positive
+"The product is a waste of money. Very unhappy.",negative
+"The product is just okay, nothing more.",neutral
+"Love this product! Very happy with my purchase.",positive
+"The product is not worth the money. Very disappointed.",negative
+"The product is decent for its price.",neutral
+"Very satisfied with this product. Great quality.",positive
+"The product broke very quickly. Extremely disappointed.",negative
+"The product is just fine.",neutral
+"Great purchase! Highly recommend.",positive
+"The product is not what I expected. Very disappointed.",negative
+"The product is okay for its price.",neutral
+"Very pleased with this purchase. Excellent quality.",positive
+"The product is awful. Do not recommend.",negative
+"The product is adequate, but nothing special.",neutral
+"Absolutely fantastic! Will buy again.",positive
+"The product did not meet my expectations at all. Very poor quality.",negative
+"The product is average at best.",neutral
